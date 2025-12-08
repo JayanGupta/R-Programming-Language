@@ -130,3 +130,7 @@ This document tracks engineering milestones, experiment logs, parameter optimiza
 - **Focus**: refactor: optimize K-Nearest Neighbors classification workflow
 - **Technical Summary**: Tuned k parameter using cross-validated accuracy on iris and wine datasets.
 
+### Milestone Log - 2025-12-08 (14:47)
+- **Focus**: docs: update Fuzzy C-Means clustering in R
+- **Technical Summary**: Documented membership matrix formulation and cluster centroid convergence.
+
